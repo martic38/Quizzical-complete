@@ -16,6 +16,7 @@ body {
 main {
     background-image: url('/images/background.png');
     background-size: cover;
+    width:100vw;
 }
 
 h1 {
