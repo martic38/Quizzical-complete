@@ -9,12 +9,14 @@ body {
     background-color: #F5F7FB;
     color: #293264;
     font-family: 'Karla', 'Sans Serif';
-    background-image: url('/images/background.png');
-    background-size: cover;
+
 }
 
 
-
+main {
+    background-image: url('/images/background.png');
+    background-size: cover;
+}
 
 h1 {
     font-size: 16px;
